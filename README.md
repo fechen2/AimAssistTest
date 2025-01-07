@@ -16,4 +16,8 @@ https://en.wikipedia.org/wiki/Monotone_cubic_interpolation
 
 Result:
 
+Open Assets/Scenes/AimAssistTest.unity
+
+![image](https://github.com/user-attachments/assets/c56e971b-baee-4342-8c36-2cec6a34536f)
+
 ![Snipaste_2025-01-08_00-10-06](https://github.com/user-attachments/assets/d6e77247-a067-4ab0-a3e9-30263716f1e5)
