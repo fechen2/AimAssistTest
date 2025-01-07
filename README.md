@@ -14,5 +14,4 @@ https://en.wikipedia.org/wiki/Monotone_cubic_interpolation
 
 Result:
 
-Blue spline is the aim assist spline through using MonotoneCubicDynamicSizeSpline
 ![Snipaste_2025-01-08_00-10-06](https://github.com/user-attachments/assets/d6e77247-a067-4ab0-a3e9-30263716f1e5)
